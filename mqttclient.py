@@ -1,4 +1,6 @@
-import time
+# Copyright: 2017 Anwesha Das <anwesha@das.community>
+# Licnese: GPLv3
+
 import paho.mqtt.client as mqtt
 
 def send_messages():

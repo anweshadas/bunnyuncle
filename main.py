@@ -1,3 +1,6 @@
+# Copyright: 2017 Anwesha Das <anwesha@das.community>
+# Licnese: GPLv3
+
 import utime
 from umqtt.simple import MQTTClient
 import machine

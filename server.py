@@ -1,3 +1,6 @@
+# Copyright: 2017 Anwesha Das <anwesha@das.community>
+# Licnese: GPLv3
+
 import toml
 import tweepy
 import json
