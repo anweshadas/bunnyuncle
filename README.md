@@ -10,7 +10,7 @@ One can find more about these cool bunnies [here](https://github.com/warthog9/ba
 * A mqtt server runnnig somewhere.
 
 
-## Configaration
+## Configuration
 
 A file named conf.toml should be there in the current directory.
 
